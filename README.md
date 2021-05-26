@@ -1,5 +1,5 @@
-# prestashop-no-spam #
-A basic solution to prevent annoying spammer from sending messages to your contact form.
+# Prestashop No Spam #
+A basic blacklist solution to prevent annoying spammers from sending messages via the contact form. 
 
 # ContactController.php #
 * Download ContactController.php and locate it in overrides/controllers/front/
