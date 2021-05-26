@@ -23,7 +23,8 @@ class ContactController extends ContactControllerCore {
             }
         }
     }
-}```
+}
+```
 
 # Delete _class_index.php #
 
