@@ -3,6 +3,7 @@ A basic solution to prevent annoying spammer from sending messages to your conta
 
 # ContactController.php #
 Create a file ContactController.php and locate it in overrides/controllers/front/
+'''
 <?php
 
 class ContactController extends ContactControllerCore {
@@ -23,7 +24,7 @@ class ContactController extends ContactControllerCore {
         }
     }
 }
-
+'''
 
 # Delete _class_index.php #
 
