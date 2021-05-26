@@ -27,4 +27,9 @@ class ContactController extends ContactControllerCore {
 
 # Delete _class_index.php #
 
+adsfadsf
+
+
+# Delete _class_index.php #
+
 Search in var/cache/prod/ for the file _class_index.php and delete it. Prestashop will regenerate it with the override.
