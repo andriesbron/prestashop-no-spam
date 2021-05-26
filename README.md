@@ -1,4 +1,4 @@
-# Prestashop No Spam #
+# Prestashop 1.7 No Spam #
 A basic blacklist solution to prevent annoying spammers from sending messages via the contact form. 
 
 # ContactController.php #
