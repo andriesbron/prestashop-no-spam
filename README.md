@@ -1,6 +1,6 @@
 # Prestashop 1.7 No Spam #
 A basic blacklist solution to prevent annoying spammers from sending messages via the contact form. 
-If you are interested in the module version, stay tuned I plan to update this with a module for a more convenient use within the store environment.
+@todo build module
 
 # ContactController.php #
 * Download ContactController.php and locate it in override/controllers/front/
